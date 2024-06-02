@@ -2,7 +2,7 @@
 // Podaci za konekciju
 $servername = "localhost"; // Naziv servera
 $username = "root"; // Korisničko ime
-$password = "majasimba1604"; // Lozinka
+$password = ""; // Lozinka
 $database = "putnicka_agencija"; // Naziv baze podataka
 // Konekcija sa bazom
 $conn = new mysqli($servername, $username, $password, $database);
